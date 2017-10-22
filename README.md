@@ -1,3 +1,5 @@
+https://evilporthacker.blogspot.com.eg/2017/10/gesture-driven-virtual-keyboard-using.html
+
 # Virtual Keyboard
 A simple virtual keyboard created using OpenCV and Python which has 26 alphabets and a space bar.
 
